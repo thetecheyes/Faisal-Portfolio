@@ -1,13 +1,26 @@
 body {
     font-family: 'Bitter', serif;
+    margin: 0;
 }
-
+.top-section {
+    background-image: url("../images/top-banner.png");
+    background-repeat: no-repeat;
+    height: 600px;
+}
 h1 {
     font-size: 45px;
 }
-
 p {
     line-height: 1.8em;
+}
+a.about_btn {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(130deg, #a81effb5, #1e90ffe6);
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 15px;
+    border-radius: 3px;
 }
 .name-style {
     color: dodgerblue
@@ -18,5 +31,5 @@ p {
     margin-left: 5%;
 }
 img {
-    width: 100%;
+    width: 70%;
 }
