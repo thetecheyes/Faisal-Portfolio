@@ -1,0 +1,22 @@
+body {
+    font-family: 'Bitter', serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p {
+    line-height: 1.8em;
+}
+.name-style {
+    color: dodgerblue
+}
+.half-section {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+img {
+    width: 100%;
+}
